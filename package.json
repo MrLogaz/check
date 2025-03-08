@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "minter-js-sdk": "^0.29.0",
+    "minter-js-sdk": "^0.46.2",
     "minterjs-tx": "^7.2.2",
     "minterjs-util": "^0.15.1",
     "minterjs-wallet": "^4.0.4",
